@@ -1,4 +1,4 @@
-# 3.-Expense-Tracker-master
+# 3.-Expense-Tracker
 
 Created a simple expense tracker.
 
